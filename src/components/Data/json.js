@@ -2,7 +2,7 @@ const persons = [
   {
     userId: 1,
     image: "",
-    name: { first: "Andrew", last: "Nova" },
+    name: { first: "Andrew", last: "Novak" },
     phone: "1234567890",
     email: "notarealemail@notarealsite.com",
     dob: "06-21-1991",
