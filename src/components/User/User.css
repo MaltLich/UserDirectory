@@ -1,13 +1,12 @@
 .User {
-    width: 100%;
-    margin: 0px auto 15px;
-    border: 1px solid #eee;
-    box-shadow: 0 2px 3px #ccc;
-    padding: 16px;
-    text-align: center;
-    height: 140px;
+  width: 100%;
+  margin: 0px auto 15px;
+  border: 1px solid #eee;
+  padding: 16px;
+  text-align: center;
+  height: 160px;
 }
 
 .Info {
-    margin: auto;
+  margin: auto;
 }

@@ -9,26 +9,26 @@ class App extends Component {
       {
         id: 1,
         image: "",
-        name: "Kris Jacobs",
-        phone: "(512) 123-4567",
-        email: "krish.lee&#64;learningcontainer.com",
-        dob: "05-23-1987",
+        name: "Andrew Novak",
+        phone: "1234567890",
+        email: "notarealemail@notarealsite.com",
+        dob: "06-21-1991",
       },
       {
         id: 2,
         image: "",
-        name: "Lucas Morris",
-        phone: "(512) 123-8910",
-        email: "racks.jacson&#64;learningcontainer.com",
-        dob: "07-23-1990",
+        name: "Stephen Novak",
+        phone: "123456",
+        email: "randomemail@gmail.com",
+        dob: "04-01-1987",
       },
       {
         id: 3,
         image: "",
-        name: "Sandy Ruedell",
-        phone: "(512) 123-1112",
-        email: "joe.jacson@learningcontainer.com",
-        dob: "07-23-2000",
+        name: "Cooper Mannon",
+        phone: "2354430",
+        email: "fakeemail@notreal.org",
+        dob: "07-08-2021",
       },
     ],
     search: "",
@@ -51,8 +51,8 @@ class App extends Component {
         <nav className="Nav">
           <p className="NavTitle">Employee Directory</p>
           <p className="NavInstructions">
-            Click on carrots to filter by heading, or use the search box to
-            narrow your results.
+            Click arrows to filter, or use the search box to narrow your
+            results.
           </p>
         </nav>
 
